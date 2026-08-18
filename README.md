@@ -1,10 +1,11 @@
 # AdventureWorks Sales Analysis 🚴
-End-to-end AdventureWorks sales analysis using SQL, Pandas, and Matplotlib, covering sales, product, customer, territory, and return performance.
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+End-to-end AdventureWorks sales analysis using SQL, Pandas, and Matplotlib, covering sales, product, customer, territory, and return performance.
+
 ## Project Overview
 
 This project performs a comprehensive business analysis of **AdventureWorks**, a company that sells bicycles and accessories to customers across the United States, Australia, France, the United Kingdom, and Germany.
