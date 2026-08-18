@@ -87,19 +87,19 @@ AdventureWorks-Sales-Analysis/
 - **February consistently underperformed** across all three years, remaining below the monthly average each time, followed by January, March, and April as weaker months.
 
 ### Territory Insights
-- **Australia was the largest revenue-generating territory**, contributing approximately **29.76% of total revenue** (~$7.42M). Its strong performance was driven by higher-priced product purchases rather than bulk buying — Australian customers buy fewer items but at significantly higher average prices.
+- **Australia was the largest revenue-generating territory**, contributing approximately **29.76% of total revenue** (~$7.42M). Its strong performance was driven by higher-priced product purchases rather than bulk buying ,Australian customers buy fewer items but at significantly higher average prices.
 - **Southwest** was the second-highest territory at ~$4.82M, highlighting a significant performance gap between leading and smaller territories.
 - Revenue and return rate showed a **weak positive correlation (r ≈ 0.33)**, suggesting that higher-revenue territories tend to have slightly higher return rates, but revenue alone is not a strong predictor of returns.
 
 ### Product Insights
 - Revenue was **heavily concentrated in the Bikes category**, which contributed approximately **95% of total revenue**. Accessories and Clothing each contributed only a small fraction.
 - **Mountain-200 variants dominated** top product revenue, with Mountain-200 Black (46) generating the highest product-level revenue at ~$1.24M.
-- **Water Bottle - 30 oz.** was a standout performer — achieving approximately **62.6% profit margin** with sales volume more than **1,100% above the overall average**, making it one of the strongest products in the entire portfolio.
+- **Water Bottle - 30 oz.** was a standout performer , achieving approximately **62.6% profit margin** with sales volume more than **1,100% above the overall average**, making it one of the strongest products in the entire portfolio.
 - A **two-dimensional Priority Tier classification** (combining profitability and sales performance) identified Very Low Priority products including Short-Sleeve Classic Jersey (~23% margin, 40–45% below average sales) and Long-Sleeve Logo Jersey (~34% margin, 34–41% below average sales) as candidates for repricing, cost reduction, or discontinuation review.
-- Products with **high profitability but low sales** should not automatically be discontinued — these may represent opportunities for improved marketing or promotional strategies.
+- Products with **high profitability but low sales** should not automatically be discontinued ,these may represent opportunities for improved marketing or promotional strategies.
 
 ### Returns Insights
-- The overall return rate across all products was approximately **2.17%** — roughly 2 out of every 100 units sold were returned.
+- The overall return rate across all products was approximately **2.17%** ,roughly 2 out of every 100 units sold were returned.
 - **Water Bottle - 30 oz.** had the highest return volume at 155 units, followed by Patch Kit/8 Patches (95) and Mountain Tire Tube (93).
 - **Road-650 Red, 52** had the highest return rate at approximately **11.76%**, concentrated among specific bicycle models.
 - **Bikes had the highest category return rate at 3.08%**, followed by Clothing (2.16%) and Accessories (1.95%).
