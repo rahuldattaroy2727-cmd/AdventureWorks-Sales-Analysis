@@ -1,0 +1,11 @@
+sales_region,total_orders,total_revenue,return_rate,trends
+United Kingdom,9694,2902562.107046604,2.104394470806,High sales & Low return rate
+Germany,7950,2524679.985935211,2.050314465408,High sales & Low return rate
+Northwest,12513,3095074.483257532,2.157755933828,High sales & High Return Rate
+Southwest,17191,4822794.723644257,2.105753010296,High sales & Low return rate
+Canada,10894,1769245.8204836845,2.184688819533,Low sales & High return rate
+France,7862,2362643.3295419216,2.365810226405,Low sales & High return rate
+Central,30,3143.060464143753,NULL,Low Sales & Low return rate
+Australia,17951,7416456.238032818,2.250570998830,High sales & High Return Rate
+Northeast,40,6401.567675590515,NULL,Low Sales & Low return rate
+Southeast,49,11585.616560935974,2.040816326530,Low Sales & Low return rate
