@@ -4,6 +4,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
 End-to-end AdventureWorks sales analysis using SQL, Pandas, and Matplotlib, covering sales, product, customer, territory, and return performance.
 
 ## Project Overview
