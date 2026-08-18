@@ -99,7 +99,7 @@ AdventureWorks-Sales-Analysis/
 ## Visualizations
 
 ### Territory Revenue
-![Territory Revenue](images/Territory_revenue.png)
+![Territory Revenue]([images/Territory_revenue.png](https://github.com/rahuldattaroy2727-cmd/AdventureWorks-Sales-Analysis/blob/main/adventureworks/images/Territory_revenue.png))
 
 ### Yearly Revenue Trend
 ![Yearly Revenue](images/Yearly_revenue.png)
