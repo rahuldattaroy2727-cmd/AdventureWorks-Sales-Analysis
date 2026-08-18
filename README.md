@@ -4,6 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_NOTEBOOK_URL)
 
 
 End-to-end AdventureWorks sales analysis using SQL, Pandas, and Matplotlib, covering sales, product, customer, territory, and return performance.
@@ -154,6 +155,7 @@ The AdventureWorks dataset used in this project was obtained from Kaggle:
 - The 2022 partial data suggests the business was on track to match or exceed 2021 performance if projected to a full year
 
 ---
+> **Notebook Update:** The Jupyter notebook has been updated to load the visualization CSV files directly from the GitHub repository, making the notebook easier to run in Google Colab without requiring manual file uploads.
 
 ## Author
 
