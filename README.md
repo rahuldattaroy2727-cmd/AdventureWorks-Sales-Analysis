@@ -24,15 +24,13 @@ Working with multiple related tables also builds confidence in handling complex 
 - **Matplotlib** — Data visualization
 
 ---
-
 ## Project Structure
 
-
+```text
 AdventureWorks-Sales-Analysis/
-|
-├──Adventureworks_csv_file
-|
-|
+│
+├── Adventureworks_csv_file/
+│
 ├── Adventureworks_Sql_queries/
 │   ├── AdventureWorks_Data_Exploration.sql
 │   ├── AdventureWorks_Sales_Analysis.sql
@@ -56,6 +54,7 @@ AdventureWorks-Sales-Analysis/
 │   └── Revenue_vs_sales.png
 │
 └── README.md
+```
 
 ### File Descriptions
 
