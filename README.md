@@ -102,19 +102,19 @@ AdventureWorks-Sales-Analysis/
 ![Territory Revenue](adventureworks/images/Territory_revenue.png)
 
 ### Yearly Revenue Trend
-![Yearly Revenue](images/Yearly_revenue.png)
+![Yearly Revenue](adventureworks/images/Yearly_revenue.png)
 
 ### Top 10 Products by Revenue
-![Top 10 Products](images/Top10_products_by_revenue.png)
+![Top 10 Products](adventureworks/images/Top10_products_by_revenue.png)
 
 ### Revenue Share by Category
-![Revenue by Category](images/Revenue_by_category.png)
+![Revenue by Category](adventureworks/images/Revenue_by_category.png)
 
 ### Revenue vs Return Rate by Territory
-![Revenue vs Return Rate](images/Revenue_vs_return.png)
+![Revenue vs Return Rate](adventureworks/images/Revenue_vs_return.png)
 
 ### Revenue vs Sales Volume by Product
-![Revenue vs Sales](images/Revenue_vs_sales.png)
+![Revenue vs Sales](adventureworks/images/Revenue_vs_sales.png)
 
 ---
 
