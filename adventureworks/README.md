@@ -130,6 +130,7 @@ AdventureWorks-Sales-Analysis/
 
 ---
 
+
 ## How to Reproduce
 
 1. Install **Microsoft SQL Server** and **SSMS** (or use the SQL Server extension in VS Code)
