@@ -63,7 +63,7 @@ AdventureWorks-Sales-Analysis/
 │   ├── Revenue_by_category.png
 │   ├── Revenue_vs_return.png
 │   └── Revenue_vs_sales.png
-│
+│   └── Low_priority_products.png
 └── README.md
 ```
 
@@ -127,7 +127,7 @@ AdventureWorks-Sales-Analysis/
 ### Revenue vs Sales Volume by Product
 ![Revenue vs Sales](adventureworks/images/Revenue_vs_sales.png)
 
-### Low Priority Products (Low Profitibilty and Low performance)
+### Low Priority Products (Low Profitabilty and Low performance)
 ![Low priority products](adventureworks/images/Low_priority_products.png)
 
 ---
