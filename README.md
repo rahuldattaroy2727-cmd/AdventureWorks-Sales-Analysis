@@ -127,6 +127,9 @@ AdventureWorks-Sales-Analysis/
 ### Revenue vs Sales Volume by Product
 ![Revenue vs Sales](adventureworks/images/Revenue_vs_sales.png)
 
+### Low Priority Products (Low Profitibilty and Low performance)
+![Low priority products](adventureworks/images/Low_priority_products.png)
+
 ---
 
 ## How to Reproduce
